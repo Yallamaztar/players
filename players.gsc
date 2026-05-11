@@ -5,21 +5,6 @@
  * A lightweight players utility library for working with 
  * players in Plutonium t6 GSC (Black Ops II)
  * ==========================================================
- * Copyright (c) 2026 Budiworld 🍌
- * This script is part of a custom players utility library.
- *
- * Permission is granted to use, modify, and include this
- * code in both personal and public projects, provided that
- * the original copyright notice and this permission notice
- * remain intact in all copies or substantial portions of the
- * software.
- *
- * You are NOT required to open-source your entire project,
- * but you MUST retain this notice if this script is used.
- *
- * This software is provided "as is", without warranty of any
- * kind, express or implied.
- * ==========================================================
  * API Reference (refer to each function implementation for detailed documentation and usage)
  *
  * Iteration API:
